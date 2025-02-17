@@ -7,7 +7,7 @@ b. Login Page
 c. Forgot Password 
 d. Create/view/edit- Incident
 
-**2. Back-End Development – Used Spring REST**
+**Back-End Development – Used Spring REST**
 a. A user can log in and create incidents.
 b. Used Mysql database.
 c. when pin code is entered, it auto-selects the City and Country,
